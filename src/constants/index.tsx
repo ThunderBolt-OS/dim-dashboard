@@ -1,0 +1,1 @@
+export const backendBaseUrl = 'localhost:3006';
